@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: hello-app
-          image: alberttini3/hello-app:1762457399
+          image: alberttini3/hello-app:1762457584
           ports:
             - containerPort: 8000
