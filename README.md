@@ -246,7 +246,7 @@ E você verá sia aplicação rodando:
 
 ## 🧪 Etapa 5 – Testar o deploy
 
-Edite o arquivo `main.py` e altere o return:
+Edite o arquivo `main.py` no repositório `hello-app` e altere o return:
 
 ```python
 return {"message": "Hello Compass"}
