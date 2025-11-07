@@ -244,7 +244,7 @@ E você verá sia aplicação rodando:
 
 <br>
 
-## 🧪 Etapa 5 – Testar o deploy automática
+## 🧪 Etapa 5 – Testar o deploy
 
 Edite o arquivo `main.py` e altere o return:
 
